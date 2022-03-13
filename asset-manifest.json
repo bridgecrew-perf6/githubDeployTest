@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6f38e03.css",
+    "main.js": "/static/js/main.d4da7d1d.js",
+    "static/media/waterfall.mp4": "/static/media/waterfall.6d5f9f44ce7a9be78f29.mp4",
+    "static/media/movieApp0.png": "/static/media/movieApp0.48832311a0bbdc402fbb.png",
+    "static/media/Ryan_Headshot.png": "/static/media/Ryan_Headshot.38d78aeb22a7ba653a48.png",
+    "static/media/angularMovieApp0.png": "/static/media/angularMovieApp0.7c4cbc9057d5054c160b.png",
+    "static/media/movieApp1.png": "/static/media/movieApp1.80ebdc899d7ee63b0844.png",
+    "static/media/outstagram0.png": "/static/media/outstagram0.a363f140275a4c694731.png",
+    "static/media/resume.pdf": "/static/media/resume.51f2604eedeedae19cd5.pdf",
+    "static/media/typeBible1.png": "/static/media/typeBible1.8652a2661744e7d32770.png",
+    "static/media/typeBible0.png": "/static/media/typeBible0.7d68de07d8f258956879.png",
+    "static/media/typeBible2.png": "/static/media/typeBible2.e77b6b3c6bb47774d81b.png",
+    "static/media/typeBible3.png": "/static/media/typeBible3.da17c348709a6a4a888e.png",
+    "index.html": "/index.html",
+    "main.c6f38e03.css.map": "/static/css/main.c6f38e03.css.map",
+    "main.d4da7d1d.js.map": "/static/js/main.d4da7d1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6f38e03.css",
+    "static/js/main.d4da7d1d.js"
+  ]
+}
